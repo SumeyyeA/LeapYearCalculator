@@ -1,18 +1,17 @@
-## Getting Started
+Java ile kullanıcının girdiği yılın artık olup olmadığını bulan program.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Artık Yıl Nedir?
 
-## Folder Structure
+Artık yıl, Miladî takvimde 365 yerine 366 günü olan yıl. Bu fazladan gün (artık gün), normalde 28 gün olan şubat ayına 29 Şubat’ın eklenmesi ile elde edilir.
 
-The workspace contains two folders by default, where:
+Artık Yıl Nasıl Hesaplanır?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024 gibi.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır:
 
-## Dependency Management
+    Örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
